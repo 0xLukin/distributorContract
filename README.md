@@ -1,0 +1,2 @@
+# distributorContract
+主网代币和token的分发器合约
